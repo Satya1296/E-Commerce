@@ -1,4 +1,5 @@
 📌 Project Title
+
 Full Stack E-Commerce Web Application (MERN Stack)
 
 👥 Team Members
@@ -83,7 +84,7 @@ Order tracking and status updates
 
 🛠 Technical Stack Overview
 
-Frontend
+1)Frontend
 
 React.js
 
@@ -93,13 +94,13 @@ CSS
 
 JavaScript
 
-Backend
+2)Backend
 
 Node.js
 
 Express.js
 
-Data Storage
+3)Data Storage
 
 MongoDB
 
