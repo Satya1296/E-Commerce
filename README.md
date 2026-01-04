@@ -1,43 +1,75 @@
-◆ Project Overview
-This project is a Full Stack E-Commerce Web Application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-It provides a complete online shopping experience where users can browse products, place orders, make secure payments, and track their orders. Administrators can manage products, users, inventory, and orders through a dedicated admin dashboard.
+📌 Project Title
+Full Stack E-Commerce Web Application (MERN Stack)
 
-The system implements role-based access control to ensure secure and organized access for different users.
+👥 Team Members
+24B11CS341 – Supraja
+24B11CS337 – Asritha
+24B11CS329 – Poojitha
 
-◆ Features
+🎯 Purpose of the System
+The goal of this project is to design and develop a full stack e-commerce platform that enables users to explore products, place orders, perform secure online transactions, and monitor order progress, while providing administrators with powerful tools to manage products, users, inventory, and order workflows.
 
-◉ User Features
-Users can register and log in securely. They can browse products, search, filter, and sort items based on their preferences. Users are able to add products to the cart, place orders, make online payments, track order status, view order history, and manage their profile details.
+🛑 Review Submission Notice
+At this stage, the repository includes documentation only. Source code and prototypes are intentionally excluded as per the guidelines for the first project evaluation.
 
-◉ Admin Features
-Administrators have privileged access to manage the entire system. They can add, update, and delete products, manage categories and inventory, view and manage users, monitor all orders, and update order status such as Pending, Shipped, Delivered, or Cancelled.
+🧩 Core Functional Units
 
-◆ Access Control
+1️⃣ Identity & Access Module
+User account creation
+User login
+Administrator login
+Role-based authorization
 
-◉ User Access
-Users can browse products, place orders, make payments, track order status, and manage their profiles.
+2️⃣ Customer Account Hub
+View and update profile information
+Manage personal details
+Access order history
 
-◉ Admin Access
-Admins can manage products, users, inventory, and orders through the admin dashboard.
+3️⃣ Product Discovery Layer
+Browse product listings
+Search and apply filters
+View detailed product information
 
-◆ Technologies Used
+4️⃣ Shopping & Order Workflow
+Add or remove items from cart
+Manage cart quantities
+Place orders
+Generate order summaries
 
-◉ Frontend
-React.js, HTML, CSS, and JavaScript are used to build an interactive and responsive user interface.
+5️⃣ Digital Payment Handling
+Secure online payment processing
+Transaction verification
+Order confirmation
 
-◉ Backend
-Node.js and Express.js are used to handle server-side logic and API requests.
+6️⃣ Order Monitoring & Documentation
+Track order status
+View delivery updates
+Download order invoices
 
-◉ Database
-MongoDB is used to store user data, product details, and order information.
+7️⃣ Administrative Control Center
+Product and category management
+Inventory monitoring
+User management
+Order tracking and status updates
 
-◉ Authentication and Security
-JWT (JSON Web Token) is used for secure authentication along with role-based access control.
+🛠 Technical Stack Overview
 
-◉ Payments
-Secure online payment gateway integration is implemented to handle transactions safely.
+Client-Side Technologies
+React.js
+HTML
+CSS
+JavaScript
 
-◆ Project Architecture
-The frontend handles user interactions and communicates with the backend through APIs.
-The backend processes business logic, authentication, and data handling.
-The database stores all persistent data such as users, products, and orders.
+Server-Side Technologies
+Node.js
+Express.js
+
+Data Storage
+MongoDB
+
+📝 Planned Enhancements
+Wishlist functionality
+Product ratings and reviews
+Email alerts for order updates
+AI-powered product recommendations
+Multi-vendor marketplace support
