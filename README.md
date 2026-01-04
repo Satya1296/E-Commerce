@@ -3,7 +3,9 @@ Full Stack E-Commerce Web Application (MERN Stack)
 
 👥 Team Members
 24B11CS341 – Supraja
+
 24B11CS337 – Asritha
+
 24B11CS329 – Poojitha
 
 🎯 Purpose of the System
