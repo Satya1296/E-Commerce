@@ -23,12 +23,15 @@ Admins can manage products, users, inventory, and orders through the admin dashb
 Technologies Used
 
 Frontend
-React.js, HTML, CSS, JavaScript are used to build an interactive and responsive user interface.
+
+React.js, HTML, CSS, and JavaScript are used to build an interactive and responsive user interface.
 
 Backend
+
 Node.js and Express.js are used to handle server-side logic and API requests.
 
 Database
+
 MongoDB is used to store user data, product details, and order information.
 
 Authentication and Security
@@ -45,4 +48,3 @@ The database stores all persistent data such as users, products, and orders.
 Objectives of the Project
 The main objective is to build a real-world full stack web application.
 It helps in understanding frontend and backend integration, implementing secure authentication, and managing e-commerce workflows such as orders and payments.
-
