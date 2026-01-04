@@ -1,102 +1,48 @@
-# E-Commerce
-
-📌 Project Overview
-
+Project Overview
 This project is a Full Stack E-Commerce Web Application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-It provides a complete online shopping experience where users can browse products, place orders, make secure payments, and track their orders, while administrators manage products, users, inventory, and orders through an admin dashboard.
+It provides a complete online shopping experience where users can browse products, place orders, make secure payments, and track their orders. Administrators can manage products, users, inventory, and orders through a dedicated admin dashboard.
 
-The application follows role-based access control to ensure secure and organized access for users and administrators.
+The system implements role-based access control to ensure secure and organized access for different users.
 
-🚀 Features
-👤 User Features
+Features
 
-User registration and login
+User Features
+Users can register and log in securely. They can browse products, search, filter, and sort items based on their preferences. Users are able to add products to the cart, place orders, make online payments, track order status, view order history, and manage their profile details.
 
-Secure authentication using JWT
+Admin Features
+Administrators have privileged access to manage the entire system. They can add, update, and delete products, manage categories and inventory, view and manage users, monitor all orders, and update order status such as Pending, Shipped, Delivered, or Cancelled.
 
-Product browsing with search, filter, and sorting
+Access Control
 
-Add to cart and manage cart items
+User Access
+Users can browse products, place orders, make payments, track order status, and manage their profiles.
 
-Online payment integration
+Admin Access
+Admins can manage products, users, inventory, and orders through the admin dashboard.
 
-Place orders and view order history
+Technologies Used
 
-Track order status and updates
-
-Manage user profile
-
-🛠️ Admin Features
-
-Admin authentication and authorization
-
-Add, update, and delete products
-
-Manage product categories
-
-Inventory (stock) management
-
-View and manage users
-
-View all orders
-
-Update order status (Pending, Shipped, Delivered, Cancelled)
-
-🔐 Access Control
-
-User Access:
-Browse products, place orders, make payments, track orders, and manage profile.
-
-Admin Access:
-Manage products, users, inventory, and orders via a dedicated admin dashboard.
-
-🧰 Technologies Used
 Frontend
-
-React.js
-
-HTML
-
-CSS
-
-JavaScript
+React.js, HTML, CSS, JavaScript are used to build an interactive and responsive user interface.
 
 Backend
-
-Node.js
-
-Express.js
+Node.js and Express.js are used to handle server-side logic and API requests.
 
 Database
+MongoDB is used to store user data, product details, and order information.
 
-MongoDB
-
-Authentication & Security
-
-JSON Web Tokens (JWT)
-
-Role-Based Access Control (RBAC)
+Authentication and Security
+JWT (JSON Web Token) is used for secure authentication along with role-based access control.
 
 Payments
+Secure online payment gateway integration is implemented to handle transactions safely.
 
-Secure online payment gateway integration
+Project Architecture
+The frontend handles user interactions and communicates with the backend through APIs.
+The backend processes business logic, authentication, and data handling.
+The database stores all persistent data such as users, products, and orders.
 
-🏗️ Project Architecture
+Objectives of the Project
+The main objective is to build a real-world full stack web application.
+It helps in understanding frontend and backend integration, implementing secure authentication, and managing e-commerce workflows such as orders and payments.
 
-Frontend: Handles UI, user interactions, and API communication
-
-Backend: Handles business logic, authentication, and REST APIs
-
-Database: Stores users, products, orders, and payment data
-
-🎯 Objectives of the Project
-
-To build a real-world full stack web application
-
-To understand frontend-backend communication
-
-To implement secure authentication and authorization
-
-To manage real-time order processing and tracking
-
-To gain hands-on experience with MERN stack
