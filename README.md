@@ -8,7 +8,7 @@ Full Stack E-Commerce Web Application (MERN Stack)
 
 24B11CS337 – Asritha
 
-24B11CS329 – Poojitha
+24B11CS329 – Poojitha   
 
 25B21CS033 - Tejovanth
 
