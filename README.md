@@ -10,7 +10,7 @@ Full Stack E-Commerce Web Application (MERN Stack)
 
 24B11CS329 – Poojitha
 
-24B11CS033 - Tejovanth
+25B21CS033 - Tejovanth
 
 🎯 Purpose of the System
 The goal of this project is to design and develop a full stack e-commerce platform that enables users to explore products, place orders, perform secure online transactions, and monitor order progress, while providing administrators with powerful tools to manage products, users, inventory, and order workflows.
